@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 21 records |
 | Free sample size | 2 records (9.52%) |
-| Last export | 2026-04-07T15:50:36.829646+00:00 |
+| Last export | 2026-04-14T22:13:22.208812+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-wisconsin-us-sample-307268/releases/download/sample-latest/beamstation_307268_food_and_drink-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
