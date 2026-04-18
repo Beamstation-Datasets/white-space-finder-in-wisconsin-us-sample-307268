@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Wisconsin that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Wisconsin, US",
-  "export_job_id": "190ccbb9-ad82-499a-9364-ee0eecbff462",
+  "export_job_id": "2d319f04-9f62-4ad4-8e8f-a58d94728a4e",
   "github_org": "Beamstation-Datasets",
   "id_short": 307268,
   "location_name": "Wisconsin",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/307268/beamstation_307268_food_and_drink-us-wi_SAMPLE_DIST.csv",
   "sample_pct": 9.52,
   "sample_records": 2,
-  "sample_sha256": "0b9752c624416364ddd9be3485417bf1c2c511cea1d9d3c1fe5c624a28c55673",
-  "sample_size_bytes": 23357,
+  "sample_sha256": "6c15da3df5ab04dc77c8270e3a48a6c70aa32d03e27d3a2f9ef0ef67bbe05a2a",
+  "sample_size_bytes": 23041,
   "total_records": 21,
-  "updated_at": "2026-04-07T15:50:36.829646+00:00"
+  "updated_at": "2026-04-14T22:13:22.208812+00:00"
 }
