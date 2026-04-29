@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a6111a46-8252-4106-afc6-2b9e7150c70d",
+  "export_job_id": "fb28a059-963a-4f22-90eb-becf78b9990c",
   "id_short": 307268,
-  "published_at": "2026-04-22T07:20:19Z",
+  "published_at": "2026-04-29T07:32:19Z",
   "repo_name": "white-space-finder-in-wisconsin-us-sample-307268",
   "sample_asset_name": "beamstation_307268_food_and_drink-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/307268/beamstation_307268_food_and_drink-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "fa4a93f6aae3e0aa25e0fdeb947dc0220a36106ac4033ad7329d4897b57a4caa",
-  "sample_size_bytes": 19972,
-  "total_records": 12
+  "sample_records": 2,
+  "sample_sha256": "0cb280320c0624f2ca2ba5695c5b76be65dea72e9ab520444758950e0a80ecfc",
+  "sample_size_bytes": 22891,
+  "total_records": 20
 }
